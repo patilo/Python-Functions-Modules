@@ -1,6 +1,5 @@
 #Patricio Carrasco
 from verify import verificar
-import preguntas as p
 from question import choose_q
 from print_preguntas import print_pregunta
 from level import choose_level
